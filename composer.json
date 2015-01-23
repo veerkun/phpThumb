@@ -7,5 +7,11 @@
         "name": "Ian Selby",
         "email": "ian@gen-x-design.com"
     }],
+    "require": {
+        "php": ">=5.0"
+    },
+    "autoload": {
+        "classmap": "/"
+    },
     "minimum-stability": "dev"
 }
