@@ -1,0 +1,10 @@
+{
+    "name": "ptcong/phpThumb",
+    "description": "Thumbnail lib from http://phpthumb.gxdlabs.com/ (include watermark plugins)",
+    "license": "MIT",
+    "authors": [{
+        "name": "Ian Selby",
+        "email": "ian@gen-x-design.com"
+    }],
+    "minimum-stability": "dev"
+}
