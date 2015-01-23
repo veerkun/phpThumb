@@ -1,6 +1,7 @@
 {
     "name": "ptcong/phpthumb",
     "description": "Thumbnail lib from http://phpthumb.gxdlabs.com/ (included watermark plugin)",
+    "keywords": ["php", "thumb", "phpthumb", "php watermark"],
     "license": "MIT",
     "authors": [{
         "name": "Ian Selby",
